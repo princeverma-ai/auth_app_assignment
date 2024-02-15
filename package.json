@@ -2,7 +2,7 @@
   "name": "auth_app_assignment",
   "version": "1.0.0",
   "main": "dist/server.js",
-  "repository": "https://github.com/princeverma-ai/node_template.git",
+  "repository": "https://github.com/princeverma-ai/auth_app_assignment.git",
   "author": "Prince Verma <princeverma360p@gmail.com>",
   "license": "MIT",
   "scripts": {
